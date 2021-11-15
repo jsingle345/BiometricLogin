@@ -7,6 +7,9 @@
     android:background="@android:color/white"
     tools:context=".ui.HomeActivity">
 
+
+    // Just to demonstrate Login process
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
